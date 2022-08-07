@@ -30,6 +30,8 @@ struct ContentView: View {
                 let student = Student(context: moc)
                 student.id = UUID()
                 student.name = "\(chosenFirstName) \(chosenLastName)"
+                
+                try? moc.save()
             }
         }
     }

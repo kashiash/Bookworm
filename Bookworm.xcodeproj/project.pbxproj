@@ -68,11 +68,11 @@
 				A399284E289FCE1F00E8CFCF /* Bookworm.xcdatamodeld */,
 				A353D7A428A02FA100867239 /* AddBookView.swift */,
 				A353D7A828A03E0900867239 /* EmojiRatingView.swift */,
+				A353D7AA28A040B400867239 /* DetailView.swift */,
 				A353D7A628A0335F00867239 /* RatingView.swift */,
 				A399284C289FCA1400E8CFCF /* DataController.swift */,
 				A3992842289FB19200E8CFCF /* Assets.xcassets */,
 				A3992844289FB19200E8CFCF /* Preview Content */,
-				A353D7AA28A040B400867239 /* DetailView.swift */,
 			);
 			path = Bookworm;
 			sourceTree = "<group>";
